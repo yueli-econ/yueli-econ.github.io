@@ -24,8 +24,9 @@ author_profile: true
 ## Fellowships & Awards
 
 - **2019** — Outstanding Graduate (top 5%), Nankai University  
-- **2017–2018** — Tianjin Government Scholarship, Tianjin Municipal Government (8,000 RMB)  
-- **2017** — Student Exchange Scholarship (30,000 RMB), Nankai University  
+- **2018** — Tianjin Government Scholarship, Tianjin Municipal Government (8,000 RMB)  
+- **2017**
+  — Student Exchange Scholarship (30,000 RMB), Nankai University  
   — Outstanding Student Leader (top 5%, 300 RMB), Nankai University  
-- **2016–2017** — Woori Bank Scholarship (3,000 RMB), Nankai University  
-- **2015–2016** — 1st Class School Scholarship (5,000 RMB), Nankai University
+  — Woori Bank Scholarship (3,000 RMB), Nankai University  
+- **2016** — 1st Class School Scholarship (5,000 RMB), Nankai University
