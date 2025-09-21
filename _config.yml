@@ -157,14 +157,6 @@ collections:
   Others:
     output: true
     permalink: /others/:path/
-# ========================
-# Navigation
-# ========================
-main:
-  - title: "Research"
-    url: /research/
-  - title: "Teaching & Service"
-    url: /others/
 
 # ========================
 # Defaults
@@ -187,14 +179,14 @@ defaults:
       author_profile: true
   - scope:
       path: ""
-      type: Research
+      type: research
     values:
       layout: single
       author_profile: true
       share: true
   - scope:
       path: ""
-      type: Teaching&Service
+      type: others
     values:
       layout: single
       author_profile: true
