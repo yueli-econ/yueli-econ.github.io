@@ -1,10 +1,12 @@
 ---
+title: "Home"
 permalink: /
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+## Bio
 
 Welcome! I am a PhD student in economics at University College London (UCL). I work on empirical questions in development economics and the economics of education, using field experiments and social network data to study peer effects and non-cognitive development among students.
 
