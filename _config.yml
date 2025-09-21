@@ -98,10 +98,10 @@ description: "Personal academic homepage of Yue Li, PhD Candidate in Economics a
 # ========================
 # Analytics
 # ========================
-analytics:
-  provider               : "google-analytics-4"
-  google:
-    tracking_id          : "G-XXXXXXXXXX"   # replace with your GA4 ID
+# analytics:
+#   provider               : "google-analytics-4"
+#   google:
+#     tracking_id          : "G-XXXXXXXXXX"   # replace with your GA4 ID
 
 # ========================
 # Reading Files
@@ -161,8 +161,6 @@ collections:
 # Navigation
 # ========================
 main:
-  # - title: "Home"
-  #   url: /
   - title: "Research"
     url: /research/
   - title: "Teaching & Service"
