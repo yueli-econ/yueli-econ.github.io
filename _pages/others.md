@@ -1,5 +1,4 @@
 ---
-layout: page
 title: "Others"
 permalink: /others/
 author_profile: true
