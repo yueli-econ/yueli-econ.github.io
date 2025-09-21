@@ -5,11 +5,6 @@ permalink: /others/
 author_profile: true
 ---
 
-<div align="center" style="margin-top:10px; margin-bottom:24px;">
-  <h1 style="margin-bottom:6px;">Yue Li</h1>
-  <div style="font-size:1.15rem; font-weight:600;">PhD Student</div>
-  <div style="font-size:1.05rem;">University College London, Department of Economics</div>
-</div>
 
 ## Academic Service
 
