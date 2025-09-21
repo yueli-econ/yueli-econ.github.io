@@ -1,16 +1,11 @@
 ---
 permalink: /
-title: "Yue Li"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-<div align="center" style="margin-top:10px; margin-bottom:24px;">
-  <div style="font-size:1.15rem; font-weight:600;">PhD Student</div>
-  <div style="font-size:1.05rem;">University College London, Department of Economics</div>
-</div>
 
 ## Bio
 
