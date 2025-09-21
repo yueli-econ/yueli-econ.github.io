@@ -18,14 +18,16 @@ Abstract: This paper evaluates the direct and spillover effects of a low-cost, s
 
 Abstract: This paper exploits the 1999 nationwide higher education expansion in China to estimate the dynamics of the causal effect of the 1999 higher education, college degrees and years of schooling on labour market outcomes in China. Using the China Urban Household Survey and China Census data and a fuzzy regression discontinuity setting, this paper finds the expansion has worsened the economic outlook for college graduates in the short run but pays back in the long run in terms of unemployment propensity, getting a good job and wages.
 
+
 ---
 
 ## Projects
 
 ### Bedtime Story Program and Non-cognitive Skills Development of Rural Boarding Students  
-*A follow-up study based on a randomized controlled trial (Core Research Team Member)*  
 
+*A follow-up study based on a randomized controlled trial (Core Research Team Member)*  
 Data from 139 Chinese rural boarding schools in 2015, 2016, 2017, and 2020.
+
 ---
 
 ## Book Chapter
