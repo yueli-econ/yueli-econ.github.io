@@ -187,14 +187,14 @@ defaults:
       author_profile: true
   - scope:
       path: ""
-      type: research
+      type: Research
     values:
       layout: single
       author_profile: true
       share: true
   - scope:
       path: ""
-      type: others
+      type: Teaching&Service
     values:
       layout: single
       author_profile: true
