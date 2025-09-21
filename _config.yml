@@ -17,8 +17,8 @@ repository               : "yueli-econ/yueli-econ.github.io"
 author:
   avatar           : "profile.png"
   name             : "Yue Li"
-  pronouns         : "she/her"
-  bio              : "Welcome! I am a PhD student in economics at University College London. I work on empirical questions in development economics and economics of education, using field experiments and social network data to study peer effects and non-cognitive development among students. I received my MPhil degree from St Cross College, University of Oxford, in 2021. Prior to that, I graduated from Nankai University. "
+#  pronouns         : "she/her"
+  bio              : "Econ Ph.D. Candidate(UCL)"
   location         : "London"
   employer         : "University College London"
   email            : "yue.li.22@ucl.ac.uk"
@@ -151,18 +151,22 @@ kramdown:
 # Collections
 # ========================
 collections:
-  teaching:
+  Research:
     output: true
-    permalink: /:collection/:path/
-  publications:
+    permalink: /research/:path/
+  Others:
     output: true
-    permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
+    permalink: /others/:path/
+# ========================
+# Navigation
+# ========================
+main:
+  - title: "Home"
+    url: /
+  - title: "Research"
+    url: /research/
+  - title: "Others"
+    url: /others/
 
 # ========================
 # Defaults
