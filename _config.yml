@@ -161,8 +161,8 @@ collections:
 # Navigation
 # ========================
 main:
-  - title: "Home"
-    url: /
+  # - title: "Home"
+  #   url: /
   - title: "Research"
     url: /research/
   - title: "Teaching & Service"
@@ -189,30 +189,16 @@ defaults:
       author_profile: true
   - scope:
       path: ""
-      type: teaching
+      type: research
     values:
       layout: single
       author_profile: true
       share: true
   - scope:
       path: ""
-      type: publications
+      type: others
     values:
       layout: single
-      author_profile: true
-      share: true
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
       author_profile: true
       share: true
 
