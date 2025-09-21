@@ -1,4 +1,5 @@
 ---
+title: ""
 permalink: /others/
 author_profile: true
 ---
