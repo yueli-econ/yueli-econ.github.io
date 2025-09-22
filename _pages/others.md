@@ -10,15 +10,15 @@ author_profile: true
 **2025**
 - Royal Economic Society Annual Conference, Birmingham  
 - Stone Centre Conference on Education and Inequality, London  
-- Janeway Institute Cambridge PhD Workshop on Economic Networks, Cambridge  
+- [Janeway Institute Cambridge PhD Workshop on Economic Networks](https://www.janeway.econ.cam.ac.uk/event/janeway-institute-phd-workshop-economic-networks), Cambridge  
 - Young Economists Society (YES) Chengdu Forum, Chengdu  
 
 **2024**
 - Society of Labor Economists (SOLE) Annual Meeting, Oregon  
-- Annual Meeting of the European Association of Young Economists, Paris  
+- [Annual Meeting of the European Association of Young Economists](https://www.eaye.info/eayeam/past-editions/2024-edition), Paris  
 - IFS-UCL-LSE/STICERD Development WiP Seminar, London  
 - The 16th China Economic Association (Europe) & 35th China Economic Association (UK) Annual Conference, London  
-- UCL PhD Seminar, London  
+- [UCL PhD Seminar](https://www.ucl.ac.uk/social-historical-sciences/events/2024/feb/phd-seminar-yue-li-ucl), London  
 - NUS Applied Economics Student Workshop, Singapore  
 
 ---
@@ -26,7 +26,7 @@ author_profile: true
 ## Academic Service
 
 - Organizer, University College London PhD Seminar, **2023–2024**  
-- Reviewer, Royal Economic Society PhD Conference, **2024**  
+- Reviewer, [Royal Economic Society PhD Conference](https://res.org.uk/event-listing/res-phd-conference-2024/), **2024**  
 - Volunteer Organizer, European Association of Young Economists Annual Meeting, **2025**  
 - Volunteer Contributor, *Conference on Education and Inequality* (Stone Center, **2025**): authored social media threads and blog summaries of presented research  
 
