@@ -12,6 +12,8 @@ author_profile: true
 
 Abstract: This paper evaluates the direct and spillover effects of a low-cost, scalable intervention—audio bedtime stories—on non-cognitive skill development among rural boarding school students in China. Using a randomized controlled trial (RCT), we analyze data from 63 schools, where boarding students were exposed to bedtime stories broadcast through dormitory speakers. This design isolates treated students from untreated day students in the same classroom, allowing for robust identification of peer effects in non-cognitive skill transmission. The results show significant positive effects on treated students, with larger gains for those with day-student friends and larger friendship networks. Spillover effects on untreated day students were primarily driven by those with boarding friends, highlighting the critical role of peer networks in the transmission of non-cognitive skills. We use the characteristics of peers’ peers but not direct peers to instrument peer resilience and self-esteem. Interacting with the treatment in the human capital production function, we will know how peers’ outcomes affect one’s own outcome and how the treatment changes the production function.
 
+*Presented at: RES 2025 (Birmingham), Janeway Institute PhD Workshop 2025 (Cambridge), SOLE 2024 (Oregon), EAYE 2024 (Paris)*
+
 ---
 
 ### “Unemployment and Higher Education: Evidence from Higher Education Expansion in China” (2021)  
