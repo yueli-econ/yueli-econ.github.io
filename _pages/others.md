@@ -5,6 +5,24 @@ author_profile: true
 ---
 
 
+## Presentations
+
+**2025**
+- Royal Economic Society Annual Conference, Birmingham  
+- Stone Centre Conference on Education and Inequality, London  
+- Janeway Institute Cambridge PhD Workshop on Economic Networks, Cambridge  
+- Young Economists Society (YES) Chengdu Forum, Chengdu  
+
+**2024**
+- Society of Labor Economists (SOLE) Annual Meeting, Oregon  
+- Annual Meeting of the European Association of Young Economists, Paris  
+- IFS-UCL-LSE/STICERD Development WiP Seminar, London  
+- The 16th China Economic Association (Europe) & 35th China Economic Association (UK) Annual Conference, London  
+- UCL PhD Seminar, London  
+- NUS Applied Economics Student Workshop, Singapore  
+
+---
+
 ## Academic Service
 
 - Organizer, University College London PhD Seminar, **2023–2024**  
