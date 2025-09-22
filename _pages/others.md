@@ -42,7 +42,6 @@ author_profile: true
 ## Fellowships & Awards
 
 - **2025** —[RES Annual Conference Scholars Fund](https://res.org.uk/event-listing/res-2025-annual-conference/2025-scholars/), Royal Economic Society  
-- **2019** — Outstanding Graduate of Nankai University  
 - **2019** — Outstanding Graduate (5%), Nankai University  
 - **2018** — Tianjin Government Scholarship, Tianjin Municipal Government (8,000 RMB)  
 - **2017**
