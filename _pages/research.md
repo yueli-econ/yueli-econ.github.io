@@ -26,6 +26,7 @@ Abstract: This paper exploits the 1999 nationwide higher education expansion in 
 
 ### “Study and Development of Junior High Students”, China (2015–2020)
 Panel dataset with four survey waves (2015, 2016, 2017, 2020) covering ~18,000 students in rural Sichuan and Hebei, along with their teachers and principals. Responsible for the 2020 follow-up wave, including leading survey implementation, cleaning ~20,000 student responses, and constructing non-cognitive skills measures.
+Data includes: mental health, social network, buly behaviours, internet addiction, cognitive and non-cognitive skills.
 
 ---
 
