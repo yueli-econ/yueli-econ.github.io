@@ -8,7 +8,7 @@ redirect_from:
 ---
 ## Bio
 
-Welcome! I am a PhD student in economics at University College London (UCL). I work on empirical questions in development economics and the economics of education, using field experiments and social network data to study peer effects and non-cognitive development among students.
+Welcome! I am a PhD student in economics at University College London (UCL). I am an applied microeconomist with research interests in education, labor, and development economics. My work examines how peer interactions and social networks influence students’ noncognitive development and socio-emotional skills. I use large-scale randomized controlled trials and survey data from schools in China to study human capital formation.
 
 I received my MPhil in Economics degree from St Cross College, University of Oxford (2021). Before that, I graduated from Nankai University with a BSc in Economics.
 
