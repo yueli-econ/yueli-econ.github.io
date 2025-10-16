@@ -28,6 +28,7 @@ You can find the latest version of my **CV** [here](/files/Yue_Li_CV.pdf).
 - [Orazio Attanasio](https://campuspress.yale.edu/orazioattanasio/bio/), Yale University
 - [Aureo de Paula](https://www.ucl.ac.uk/~uctpand/), University College London
 
+---
 ## Beyond Academia
 
 When I’m not doing research, I spend time hiking, hosting a small reading club in London, and practicing Chinese brush calligraphy — an art that balances discipline and flow, much like research itself.
