@@ -33,8 +33,6 @@ You can find the latest version of my **CV** [here](/files/Yue_Li_CV.pdf).
 
 When I’m not doing research, I spend time hiking, hosting a small reading club in London, and practicing Chinese brush calligraphy — an art that balances discipline and flow, much like research itself.
 
-I also write on Xiaohongshu (RED), where I share economics learning resources and personal reflections with an audience of 2,000+ readers.
-
-In addition, I enjoy photography and have photographed both academic and community events, capturing moments of collaboration and curiosity that inspire my work.
+I also write on Xiaohongshu (RED), where I share economics learning resources and personal reflections with an audience of 2,000+ readers. In addition, I enjoy photography and have photographed both academic and community events, capturing moments of collaboration and curiosity that inspire my work.
 
 ---
