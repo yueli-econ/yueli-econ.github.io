@@ -17,7 +17,7 @@ Abstract: This paper evaluates the direct and spillover effects of a low-cost, s
 
 ### “Unemployment and Higher Education: Evidence from Higher Education Expansion in China”
 
-Abstract: This paper exploits the 1999 nationwide higher education expansion in China to estimate the dynamics of the causal effect of college degrees on labour market outcomes in China.
+Abstract: This paper exploits the 1999 nationwide higher education expansion in China to estimate the dynamics of the causal effect of higher education expansion and college degrees on labour market outcomes in China.
 
 
 ---
