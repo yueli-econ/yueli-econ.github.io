@@ -25,8 +25,8 @@ You can find the latest version of my **CV** [here](/files/Yue_Li_CV.pdf).
 ## Supervisors
 
 - [Michela Tincani](https://sites.google.com/site/mtincani/home), University College London
-- [Orazio Attanasio](https://campuspress.yale.edu/orazioattanasio/bio/), Yale University
 - [Aureo de Paula](https://www.ucl.ac.uk/~uctpand/), University College London
+- [Orazio Attanasio](https://campuspress.yale.edu/orazioattanasio/bio/), Yale University
 
 ---
 ## Beyond Academia
