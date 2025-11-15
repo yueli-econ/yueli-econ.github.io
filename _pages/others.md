@@ -25,13 +25,22 @@ author_profile: true
 
 ## Academic Service
 
-- Organizer, University College London PhD Seminar, **2023–2024**  
-- Reviewer, [Royal Economic Society PhD Conference](https://res.org.uk/event-listing/res-phd-conference-2024/), **2024**
-- **Changemakers Project on PGTA Training and Feedback**, **2025**  
-  As a Changemakers Project Partner in UCL’s Faculty of Social & Historical Sciences, I co-led a faculty-funded initiative reviewing the training and feedback structures for Postgraduate Teaching Assistants (PGTAs). Our team interviewed more than 30 PGTAs and several academic directors, analysed NSS survey data, and synthesised the findings into a policy report and presentation to the Faculty Education Committee. The recommendations contributed to the redesign of faculty-level PGTA development programmes.
-- Volunteer Organizer, European Association of Young Economists Annual Meeting, **2025**  
-- Volunteer Contributor, *Conference on Education and Inequality* (Stone Center, **2025**): authored social media threads and blog summaries of presented research  
+- **Teaching Assistant Representative**, Department of Economics, UCL, **2025–present**
 
+- **Changemakers Project Partner**, Faculty of Social & Historical Sciences, UCL, **2025**  
+  - Delivered a faculty-funded Changemakers project reviewing PGTA training and feedback.  
+  - Conducted interviews with 30+ PGTAs and multiple academic directors, analysed NSS data, co-authored a policy report, and presented recommendations to the SHS Faculty Education Committee.
+
+- **Volunteer Organizer**, European Association of Young Economists Annual Meeting, **2025**
+
+- **Volunteer Contributor**, *Conference on Education and Inequality* (Stone Center), **2025**  
+  - Authored social media threads and blog summaries of presented research.
+
+- **Organizer**, University College London PhD Seminar, **2023–2024**
+
+- **Reviewer**, [Royal Economic Society PhD Conference](https://res.org.uk/event-listing/res-phd-conference-2024/), **2024**
+
+- **Student Representative**, Department of Economics, Nankai University, **2017–2019**
 ---
 
 ## Teaching
