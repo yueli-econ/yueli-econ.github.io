@@ -10,7 +10,8 @@ author_profile: true
 **2025**
 - Royal Economic Society Annual Conference, Birmingham  
 - Stone Centre Conference on Education and Inequality, London  
-- [Janeway Institute Cambridge PhD Workshop on Economic Networks](https://www.janeway.econ.cam.ac.uk/event/janeway-institute-phd-workshop-economic-networks), Cambridge  
+- [Janeway Institute Cambridge PhD Workshop on Economic Networks](https://www.janeway.econ.cam.ac.uk/event/janeway-institute-phd-workshop-economic-networks), Cambridge
+- Applied Micro PhD Research Day at the Institute of Fiscal Studies, London
 - Young Economists Society (YES) Chengdu Forum, Chengdu  
 
 **2024**
