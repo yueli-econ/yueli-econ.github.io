@@ -35,3 +35,24 @@ Data includes: mental health, social network, buly behaviours, internet addictio
 **Peer Effects among Rural Adolescents** (with Yaowu Wu)  
 *In* *Study on the Development of Rural Adolescent Non-Cognitive Skills*, Social Sciences Academic Press (China), 2025, pp. 90–113.
 
+---
+
+## Presentations
+
+**2025**
+- Royal Economic Society Annual Conference, Birmingham  
+- Stone Centre Conference on Education and Inequality, London  
+- [Janeway Institute Cambridge PhD Workshop on Economic Networks](https://www.janeway.econ.cam.ac.uk/event/janeway-institute-phd-workshop-economic-networks), Cambridge
+- Applied Micro PhD Research Day at the Institute of Fiscal Studies, London
+- Young Economists Society (YES) Chengdu Forum, Chengdu  
+
+**2024**
+- Society of Labor Economists (SOLE) Annual Meeting, Oregon  
+- [Annual Meeting of the European Association of Young Economists](https://www.eaye.info/eayeam/past-editions/2024-edition), Paris  
+- IFS-UCL-LSE/STICERD Development WiP Seminar, London  
+- The 16th China Economic Association (Europe) & 35th China Economic Association (UK) Annual Conference, London  
+- [UCL PhD Seminar](https://www.ucl.ac.uk/social-historical-sciences/events/2024/feb/phd-seminar-yue-li-ucl), London  
+- NUS Applied Economics Student Workshop, Singapore  
+
+
+
