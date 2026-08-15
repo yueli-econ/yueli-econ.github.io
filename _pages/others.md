@@ -3,6 +3,12 @@ title: ""
 permalink: /others/
 author_profile: true
 ---
+## Teaching
+
+- *Statistical Methods in Economics (undergraduate)*, University College London, teaching fellow for Michela M. Tincani, **2023, 2024, 2025** ([see my students' feedback here](/files/ECON0005_Yue_Li_PGTA_CMD_report.pdf))
+- *Economics and Management UNIQ Summer School Programme*, University of Oxford, teaching fellow for Janet Smart and Alex Teytelboym, **2021**
+
+---
 
 ## Academic Service
 
@@ -23,13 +29,6 @@ author_profile: true
 
 - **Student Representative**, Department of Economics, Nankai University, **2017–2019**
   
----
-
-## Teaching
-
-- *Statistical Methods in Economics (undergraduate)*, University College London, teaching fellow for Michela M. Tincani, **2023, 2024, 2025** ([see my students' feedback here](/files/ECON0005_Yue_Li_PGTA_CMD_report.pdf))
-- *Economics and Management UNIQ Summer School Programme*, University of Oxford, teaching fellow for Janet Smart and Alex Teytelboym, **2021**
-
 ---
 
 ## Fellowships & Awards
