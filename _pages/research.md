@@ -15,6 +15,17 @@ Abstract: Can a school intervention benefit classmates outside its formal delive
 
 ---
 
+## Work in Progress
+
+### “Building Supportive Peer Networks: Experimental Evidence from Chinese Middle Schools”
+
+---
+
+### “The Scale That Reshapes the Answer: Experimental Evidence on Response Scales and Self-Reported Time Use”
+*with Yue Li and Yiming Xia*
+
+---
+
 ### “Unemployment and Higher Education: Evidence from Higher Education Expansion in China”
 
 Abstract: This paper exploits the 1999 nationwide higher education expansion in China to estimate the dynamics of the causal effect of higher education expansion and college degrees on labour market outcomes in China.
