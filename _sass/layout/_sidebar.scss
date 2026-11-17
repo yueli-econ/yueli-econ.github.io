@@ -92,6 +92,8 @@
     display: block;
     width: auto;
     height: auto;
+    aspect-ratio: 3 / 4;
+    overflow: hidden;
   }
 
   img {
@@ -106,6 +108,11 @@
     @include breakpoint($large) {
       padding: 0;
       border: 0;
+      width: 100%;
+      height: 100%;
+      aspect-ratio: auto;
+      transform: scale(1.6);
+      transform-origin: 65% 45%;
     }
   }
 }
@@ -276,16 +283,20 @@
     .author__avatar {
       display: block;
       width: 100%;
-      height: auto;
+      height: calc(100svh - #{$masthead-height} - 2em);
+      min-height: 440px;
+      overflow: hidden;
     }
 
     .author__avatar img {
       width: 100%;
-      height: calc(100svh - #{$masthead-height} - 2em);
-      min-height: 440px;
+      height: 100%;
+      min-height: 0;
       aspect-ratio: auto;
       object-fit: cover;
       object-position: 65% 55%;
+      transform: scale(1.5);
+      transform-origin: 65% 60%;
     }
 
     .author__content {
