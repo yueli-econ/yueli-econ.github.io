@@ -8,7 +8,11 @@ redirect_from:
 ---
 ## Bio
 
-Welcome! I am a PhD student in economics at University College London (UCL). I am an applied microeconomist with research interests in education, labor, and development economics. My work examines how peer interactions and social networks influence students’ noncognitive development and socio-emotional skills. I use large-scale randomized controlled trials and survey data from schools in China to study human capital formation.
+Welcome! I am a PhD student in Economics at University College London (UCL). I am an applied microeconomist working on education and human capital. My research examines how peer interactions shape children’s and adolescents’ socio-emotional development and access to support.
+
+Using school-based field experiments in China, I study whether the benefits of interventions extend beyond their direct recipients and whether schools can help students build supportive peer relationships. In [Bedtime Stories, Daytime Effects](/research/#bedtime-stories-daytime-effects-classroom-spillovers-in-rural-china), I examine how a dormitory-based storytelling intervention affects day students who share classrooms with boarders. My ongoing project, [Building Supportive Peer Networks](/research/#building-supportive-peer-networks-experimental-evidence-from-chinese-middle-schools), asks whether structured peer interaction can help middle-school students form supportive connections.
+
+I also study how survey response scales influence self-reported time use and how higher education expansion shapes labour-market outcomes.
 
 I received my MPhil in Economics degree from St Cross College, University of Oxford (2021). Before that, I graduated from Nankai University with a BSc in Economics.
 
