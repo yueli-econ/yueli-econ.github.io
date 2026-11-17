@@ -33,6 +33,8 @@ You can find the latest version of my **CV** [here](/files/Yue_Li_CV.pdf).
 ---
 ## Beyond Academia
 
-Outside research, I enjoy hiking, hosting a small reading group in London, and practising Chinese calligraphy. I also share economics resources and personal reflections on Xiaohongshu (RED).
+Outside research, I enjoy hiking, Chinese calligraphy, and tea. I co-founded the UCL Tea Society, and my favourites are Bitan Piaoxue (jasmine green tea) and Jin Jun Mei (black tea).
+
+I also share economics resources and personal reflections on Xiaohongshu (RED).
 
 ---
