@@ -1,7 +1,7 @@
 # ========================
 # Basic Site Settings
 # ========================
-locale                   : "en-US"
+locale                   : "en-GB"
 site_theme               : "default"
 title                    : "Yue Li - Economics"
 title_separator          : "-"
@@ -18,7 +18,7 @@ author:
   avatar           : "profile.png"
   name             : "Yue Li"
 #  pronouns         : "she/her"
-  bio              : "Econ Ph.D. Candidate(UCL)"
+  bio              : "PhD Candidate in Economics"
   location         : "London"
   employer         : "University College London"
   email            : "yue.li.22@ucl.ac.uk"
