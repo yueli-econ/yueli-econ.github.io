@@ -22,7 +22,7 @@ Abstract: Can a school intervention benefit classmates outside its formal delive
 ---
 
 ### “The Scale That Reshapes the Answer: Experimental Evidence on Response Scales and Self-Reported Time Use”
-*with Yue Li and Yiming Xia*
+*with Jiemin Xu and Yiming Xia*
 
 ---
 
